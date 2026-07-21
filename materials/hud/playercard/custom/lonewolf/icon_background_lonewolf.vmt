@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "hud/playercard/custom/lonewolf/icon_background_lonewolf"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
