@@ -1,3 +1,11 @@
 # About
 **This is an example custom role, built for the Treason [Custom Roles (TCR)](https://github.com/chriss5dev/Treason-API/blob/main/treason_customroles.sp) companion plugin inside of the [Treason API (TAPI)](https://github.com/chriss5dev/Treason-API).**
 It is registered with `treasonRole TR_Solo` and `winIfLastAlive = true`. Using this custom role without FastDL is highly discouraged, as download times can get very long using the default file transfer protocol.
+
+# ConVars
+`cr_lonewolf_prevalence`
+`cr_lonewolf_weight`
+`cr_lonewolf_minplayers`
+`cr_lonewolf_mintraitors`
+`cr_lonewolf_mininnocents`
+`cr_lonewolf_hpbonus`
